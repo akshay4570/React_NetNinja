@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React_NetNinja/static/css/main.c253977a.chunk.css",
+    "main.js": "/React_NetNinja/static/js/main.33240f4c.chunk.js",
+    "main.js.map": "/React_NetNinja/static/js/main.33240f4c.chunk.js.map",
+    "runtime-main.js": "/React_NetNinja/static/js/runtime-main.b8d8f8f3.js",
+    "runtime-main.js.map": "/React_NetNinja/static/js/runtime-main.b8d8f8f3.js.map",
+    "static/js/2.93443d18.chunk.js": "/React_NetNinja/static/js/2.93443d18.chunk.js",
+    "static/js/2.93443d18.chunk.js.map": "/React_NetNinja/static/js/2.93443d18.chunk.js.map",
+    "static/js/3.8f2724bc.chunk.js": "/React_NetNinja/static/js/3.8f2724bc.chunk.js",
+    "static/js/3.8f2724bc.chunk.js.map": "/React_NetNinja/static/js/3.8f2724bc.chunk.js.map",
+    "index.html": "/React_NetNinja/index.html",
+    "static/css/main.c253977a.chunk.css.map": "/React_NetNinja/static/css/main.c253977a.chunk.css.map",
+    "static/js/2.93443d18.chunk.js.LICENSE.txt": "/React_NetNinja/static/js/2.93443d18.chunk.js.LICENSE.txt",
+    "static/media/pokeball.05e5662d.png": "/React_NetNinja/static/media/pokeball.05e5662d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8d8f8f3.js",
+    "static/js/2.93443d18.chunk.js",
+    "static/css/main.c253977a.chunk.css",
+    "static/js/main.33240f4c.chunk.js"
+  ]
+}
